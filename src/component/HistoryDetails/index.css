@@ -1,0 +1,35 @@
+.item-container {
+  list-style: none;
+  display: flex;
+  margin: 10px;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+
+.logo-and-text {
+  display: flex;
+}
+
+.title {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 18px;
+}
+.domain-url {
+  margin-top: 19px;
+  color: #64748b;
+}
+.time-logo-container {
+  display: flex;
+}
+.del-logo {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  outline: none;
+}
